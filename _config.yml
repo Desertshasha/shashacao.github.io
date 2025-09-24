@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "shasha1.jpg"
   name             : "Shasha Cao"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : "PhD Candidate in Information Systems at Arizona State University"
   location         : "Tempe, Arizona"
   employer         : #"Red Brick University"
