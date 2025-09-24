@@ -1,9 +1,9 @@
 Shasha Cao:
   name    : "Shasha Cao"
-  uri     : "https://shashacao.github.io"   # 你的网站主页
+  uri     : "https://shashacao.github.io"
   email   : "ShashaCao@asu.edu"
   bio     : "Ph.D. Candidate in Information Systems at Arizona State University"
-  avatar  : "shasha1.jpg"   # 确保你把照片放在 `images/` 文件夹，并命名为 profile.png
-  github  : "shashacao"
-  linkedin: "https://www.linkedin.com/in/shasha-cao-6a4945214/"
-  orcid   : "https://orcid.org/0000-0002-4266-3713"
+  avatar  : "shasha1.jpg"   # 确保 shasha1.jpg 放在 `images/` 文件夹里
+  github  : "shashacao"     # 只写用户名，不要写全链接
+  linkedin: "shasha-cao-6a4945214"  # 只写 ID，不要加 https://
+  orcid   : "0000-0002-4266-3713"   # 只写 ORCID ID，不要加 https://
