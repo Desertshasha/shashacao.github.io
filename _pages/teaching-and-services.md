@@ -31,7 +31,7 @@ TBD
 
 ## Social Services
 - **External Expert:** Shanghai Haiding Information Engineering Co., Ltd. ([Link](https://www.hd123.com/)), 2019–2024  
-- **Deputy Secretary-General:** Zhengzhou University Alumni Association (Beijing), 2019–2021
+- **Deputy Secretary-General:** Zhengzhou University Alumni Association (Beijing), 2019–2022
 
 
 
