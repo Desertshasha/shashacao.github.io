@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Awards"
+title: "Awards and Grants"
 permalink: /awards/
 author_profile: true
 ---
 
-## Awards
 
 - **W. P. Carey Ph.D. Summer Fellowship**, 2023–2025  
 - **AIDA Center W. P. Carey Summer Grant**, 2023  
