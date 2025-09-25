@@ -23,11 +23,10 @@ Outside of research, I am passionate about cultivating a healthy, balanced, and 
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border-top: 1px solid #ccc;">
 
-  <img src="/images/marathon1.jpg" alt="Marathon Running" style="height:200px; margin-right:10px; display:inline-block; border-radius:8px;" />
-  <img src="/images/marathon2.jpg" alt="Meditation" style="height:200px; margin-right:10px; display:inline-block; border-radius:8px;" />
-  <img src="/images/marathon3.jpg" alt="Yoga Practice" style="height:200px; margin-right:10px; display:inline-block; border-radius:8px;" />
-  <img src="/images/marathon4.jpg" alt="Hiking" style="height:200px; margin-right:10px; display:inline-block; border-radius:8px;" />
-  <img src="/images/hiking.jpg" alt="Reading" style="height:200px; margin-right:10px; display:inline-block; border-radius:8px;" />
-
+  <img src="/images/marathon1.jpg"  style="height:200px; margin-right:10px; display:inline-block; border-radius:8px;" />
+  <img src="/images/marathon2.jpg" style="height:200px; margin-right:10px; display:inline-block; border-radius:8px;" />
+  <img src="/images/marathon3.jpg"  style="height:200px; margin-right:10px; display:inline-block; border-radius:8px;" />
+  <img src="/images/marathon4.jpg"  style="height:200px; margin-right:10px; display:inline-block; border-radius:8px;" />
+  
 </div>
 
